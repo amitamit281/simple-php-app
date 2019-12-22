@@ -13,10 +13,8 @@
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations!</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
-	<p>This is v1 of the app</p>
+        <h1>Welcome!</h1>
+	<p>West Us 2</p>
     </section>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
